@@ -1,4 +1,4 @@
-# Practice – Competitive Programming Training
+# Practice – Competitive Programming
 
 Welcome to the **Practice** section of my competitive programming repository.  
 This folder contains categorized problems solved from various online judges and curated sets for daily improvement.
