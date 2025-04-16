@@ -12,6 +12,6 @@ It includes contest participation, personal training , and original challenges a
 Each problem is organized in its own folder and includes a documented solution with the following:
 
 - Problem statement
+- Code (C++)
 - Solution explanation
 - Time complexity
-- Code (C++)
