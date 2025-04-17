@@ -1,6 +1,6 @@
 # Problem C - SMS Championship
 
-** Time Limit:**
+** Time Limit:** 5 seconds
 
 ---
 
