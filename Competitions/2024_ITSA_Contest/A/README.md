@@ -37,17 +37,17 @@ For each test case, print a single line with the floor number that should be ass
 ---
 
 ## Sample Input
-1
-4
-11
-12
-440
+`1
+ 4
+ 11
+ 12
+ 440`
 
 ---
 
 ## Sample Output
-1
-5
-12
-15
-666
+`1
+ 5
+ 12
+ 15
+ 666`
