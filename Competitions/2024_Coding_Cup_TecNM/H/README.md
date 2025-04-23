@@ -18,6 +18,7 @@ Ya que Espino decidió hacer todas estas compras no tan sabias, tu tarea es ayud
 En la primera línea de entrada, un entero N que representa la cantidad de diferentes productos que Espino desea comprar y un entero M que representa el presupuesto disponible de Espino, después de pagar la renta y otras cuentas por pagar.
 
 En las siguientes líneas de entrada, como se muestra en la imagen, se proporcionará una matriz con los productos que quiere Espino, con su precio correspondiente.
+
 ![costos](./1.png)
 
 ## Output
